@@ -1,4 +1,5 @@
 ## Raspberry-Pi-Apps
+For the latest work, please see the Repos at RaspberryPiApps. This Repo documents earlier work by these student groups
 Raspberry Pi Apps for monitoring and control of simple low cost robots via WiFi/Blue Tooth communication
 We have built low cost ($100) robots for use in schools. Other commercially available robots cost $250 to $350 and are not designed for STEM learning. We have been working on incorporating math lessons that can benefit from using robots to visualize and solve the problem. 
 Here are the links: http://csi.fau.edu/courses/robotics/  and http://robotics.fau.edu/. 
